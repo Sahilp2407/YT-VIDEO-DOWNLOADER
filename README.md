@@ -43,7 +43,8 @@
 ✅ View video metadata before download (title, length, thumbnail)  
 ✅ Monitor **real-time download progress**  
 ✅ Simple **drag-and-drop** YouTube link input  
-✅ Cross-platform (Windows, macOS, Linux)
+✅ Cross-platform (Windows, macOS, Linux)  
+✅ Optional **Apify integration** for more robust downloads
 
 ---
 
